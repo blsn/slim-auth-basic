@@ -1,1 +1,2 @@
-# Slim Framework 3 Auth Basic
+# Slim Framework 3 Auth
+## Basic App
